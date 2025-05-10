@@ -6,7 +6,7 @@ Software engineer with over 10 years of experience building web applications for
 - 👨‍💻 Freelancing in **software engineering**, **marketing** and **artificial intelligence**
 - 🛠️ Skilled in building **ERPs**, **CRMs**, **APIs**, **AI agents**, **websites**, **integrations** and more
 - 🏠 Open-source contributor, focusing on **home automation systems** and **smart device integrations**
-- 🌍 Fluent in **Portuguese**, **English** and **Spanish** — based in **Brazil**.
+- 🌍 Fluent in **Portuguese**, **English** and **Spanish** — based in **Brazil**
 
 ## Contact
 For professional inquiries or collaboration opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/felipediel) or reach out via email at [felipemartinsdiel@gmail.com](mailto:felipemartinsdiel@gmail.com).
