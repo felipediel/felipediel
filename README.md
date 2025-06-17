@@ -2,8 +2,8 @@
 
 Software engineer with over 10 years of experience building web applications for businesses.
 
-- 💼 Currently working as a **Professional Services Developer** at **Quorum**
-- 👨‍💻 Freelancing in **software engineering**, **marketing** and **artificial intelligence**
+- 💼 Currently working as a **Software Engineer** at **Clicksign**
+- 👨‍💻 Freelancing in **software engineering** and **artificial intelligence**
 - 🛠️ Skilled in building **ERPs**, **CRMs**, **APIs**, **AI agents**, **websites**, **integrations** and more
 - 🏠 Open-source contributor, focusing on **home automation systems** and **smart device integrations**
 - 🌍 Fluent in **Portuguese**, **English** and **Spanish** — based in **Brazil**
